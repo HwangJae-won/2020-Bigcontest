@@ -1,1 +1,1 @@
-# 2020-Bigcontest
+# 2020 Bigcontest 퓨처스리그
