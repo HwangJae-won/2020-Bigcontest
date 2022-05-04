@@ -27,8 +27,6 @@
 <img width="789" alt="image" src="https://user-images.githubusercontent.com/79994991/166682623-4eb36b8e-6a7f-40a3-8630-af523c78acc9.png">
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/79994991/166682740-c4ac32e9-6fac-44e6-97a8-8fd35cc714b7.png">
 
-<img width="789" alt="image" src="https://user-images.githubusercontent.com/79994991/166682623-4eb36b8e-6a7f-40a3-8630-af523c78acc9.png">
-
 # 3. 승률 분석
 - 과거 누적 데이터와 미래 승패는 관련 없다고 판단한 후 test set과 같은 시점의 데이터를 독립 변수로 활용하여 예측하기로 분석 방향 설정
 - 타율, 방여율의 예측값 활용
